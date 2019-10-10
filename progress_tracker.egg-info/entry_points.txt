@@ -1,0 +1,3 @@
+[lms.djangoapp]
+progress_tracker = progress_tracker.apps:ProgressTrackerConfig
+

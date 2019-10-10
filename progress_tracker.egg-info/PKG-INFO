@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: progress-tracker
+Version: 0.0.1
+Summary: Progress Tracker EOL LMS
+Home-page: https://eol.uchile.cl/
+Author: Matias Salinas
+Author-email: matsalinas@uchile.cl
+License: UNKNOWN
+Description: Progress Tracker EOL LMS
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
